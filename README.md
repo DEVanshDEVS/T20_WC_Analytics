@@ -76,13 +76,6 @@ T20_WC_Analytics/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-
-yaml
-Copy code
-
 ---
-
-## 📌 How to Use
-1. Clone the repository:
-```bash
-git clone https://github.com/DEVanshDEVS/T20_WC_Analytics.git
+made by Devansh Dobhal
+mail-devanshdobhal983@gmail.com
