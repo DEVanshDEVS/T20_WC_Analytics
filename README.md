@@ -78,4 +78,4 @@ T20_WC_Analytics/
 └── .gitignore
 ---
 made by Devansh Dobhal
-mail-devanshdobhal983@gmail.com
+devanshdobhal983@gmail.com
