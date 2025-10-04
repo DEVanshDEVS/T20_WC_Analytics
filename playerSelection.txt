@@ -1,0 +1,45 @@
+T20 World Cup 2022: Player Selection Parameters
+
+1. Openers / Power Hitters
+--------------------------
+Batting Average     : Average runs scored in an innings           | Criteria: > 30
+Strike Rate         : Runs scored per 100 balls                   | Criteria: > 140
+Innings Batted      : Total innings batted                        | Criteria: > 3
+Boundary %          : % of runs scored in boundaries             | Criteria: > 50
+Batting Position    : Order in which the batter played           | Criteria: < 4
+
+2. Anchors / Middle Order
+-------------------------
+Batting Average     : Average runs scored in an innings           | Criteria: > 40
+Strike Rate         : Runs scored per 100 balls                   | Criteria: > 125
+Innings Batted      : Total innings batted                        | Criteria: > 3
+Avg. Balls Faced    : Average balls faced in an innings           | Criteria: > 20
+Batting Position    : Order in which the batter played           | Criteria: > 2
+
+3. Finisher / Lower Order Anchor
+--------------------------------
+Batting Average     : Average runs scored in an innings           | Criteria: > 25
+Strike Rate         : Runs scored per 100 balls                   | Criteria: > 130
+Innings Batted      : Total innings batted                        | Criteria: > 3
+Avg. Balls Faced    : Average balls faced in an innings           | Criteria: > 12
+Batting Position    : Order in which the batter played           | Criteria: > 4
+Innings Bowled      : Total innings bowled by the bowler         | Criteria: > 1
+
+4. All-Rounders / Lower Order
+-----------------------------
+Batting Average     : Average runs scored in an innings           | Criteria: > 15
+Strike Rate         : Runs scored per 100 balls                   | Criteria: > 140
+Innings Batted      : Total innings batted                        | Criteria: > 2
+Batting Position    : Order in which the batter played           | Criteria: > 4
+Innings Bowled      : Total innings bowled                        | Criteria: > 2
+Bowling Economy     : Average runs allowed per over              | Criteria: < 7
+Bowling Strike Rate : Average balls required per wicket          | Criteria: < 20
+
+5. Specialist Fast Bowlers
+--------------------------
+Innings Bowled      : Total innings bowled                        | Criteria: > 4
+Bowling Economy     : Average runs allowed per over              | Criteria: < 7
+Bowling Strike Rate : Average balls required per wicket          | Criteria: < 16
+Bowling Style       : Player bowling style                        | Criteria: contains "Fast"
+Bowling Average     : Runs allowed per wicket                     | Criteria: < 20
+Dot Ball %          : % of dot balls bowled                       | Criteria: > 4
