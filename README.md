@@ -1,5 +1,6 @@
 # T20 World Cup 2022: Cricket Data Analytics
 
+## 📸 Screenshots 
 ![Dashboard Overview](screenshot_dashboard.png)
 ![Player Analysis](screenshot_player_analysis.png) 
 
@@ -60,18 +61,6 @@ The project follows a real-world sports analytics workflow: selecting a balanced
 | Data Modeling    | Star Schema Design |
 | DAX Measures     | IF, SWITCH, CALCULATE, DIVIDE, SELECTEDVALUE |
 | Others           | Problem Solving, Domain Analysis, Data Storytelling |
-
----
-
-## 📸 Screenshots
-
-**Dashboard Overview**  
-![Dashboard Overview](screenshot2.png)  
-
-**Player Performance Analysis**  
-![Player Analysis](screenshot3.png)  
-
-*(Replace `screenshot2.png` and `screenshot3.png` with your actual images in the repo.)*
 
 ---
 
