@@ -63,19 +63,5 @@ The project follows a real-world sports analytics workflow: selecting a balanced
 | Others           | Problem Solving, Domain Analysis, Data Storytelling |
 
 ---
-
-## 📁 Project Structure
-
-T20_WC_Analytics/
-├── data/
-│ ├── t20_csv_files/
-│ └── t20_json_files/
-├── notebooks/
-├── power_bi/
-├── web_scrapping_codes/
-├── README.md
-├── requirements.txt
-└── .gitignore
----
 made by Devansh Dobhal
 devanshdobhal983@gmail.com
